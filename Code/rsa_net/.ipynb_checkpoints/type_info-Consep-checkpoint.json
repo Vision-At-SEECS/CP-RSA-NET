@@ -1,7 +1,0 @@
-{
-    "0" : ["nolabel", [0  ,   0,   0]], 
-    "1" : ["epithelial", [255,   0,   0]], 
-    "2" : ["inflammatory", [0  , 255,   0]], 
-    "3" : ["spindle-shaped", [0  ,   0, 255]], 
-    "4" : ["Miscellanous", [255, 255,   0]] 
-}
