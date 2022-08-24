@@ -6,4 +6,4 @@ Automatic nuclei instance segmentation and classification within Hematoxylin \& 
 ![RSA-Net](https://user-images.githubusercontent.com/86110742/184842418-0f2906e2-6a13-4c58-9d5c-9f57267f07d0.PNG)
 
 # Trained Weights
-The trained weights can be downloaded from ![here]()
+The trained weights can be downloaded from [here](https://drive.google.com/file/d/1uVjBAQxOyOC3w96w95TPO06LQJjCKvWI/view?usp=sharing)
